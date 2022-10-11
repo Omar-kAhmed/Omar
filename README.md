@@ -1,1 +1,3 @@
 # Omar
+:wave:
+Hey! I'm Omar Ahmed, also known as "Pixel." I am a motivated graduate of STEM High School for Boys - October 6th, and a CS freshman at the University of Debrecen, Class of 2025. For my spirit, programming is an uncotrloable power of letters that is only managed by me. I enjoy taking on leadership responsibilities in my community and have acquired excellent communication and organizational abilities transferable to any workplace. I'm always on the lookout for new possibilities to learn from and expand my skill set further, allowing me to become a competent, prominent software engineer at Apple corporation. Excited to construct a fantasy world by developing the foundation of any project: software. 
